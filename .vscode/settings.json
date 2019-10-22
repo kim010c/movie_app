@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.automationShell.linux": "/bin/zsh",
+  "terminal.integrated.automationShell.osx": "/bin/zsh",
+  "debug.console.fontFamily": "",
+  "terminal.integrated.fontFamily": "'Meslo LG M for Powerline'"
+}
